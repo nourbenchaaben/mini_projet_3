@@ -1,8 +1,8 @@
 # Data and outputs
-data/
+
 outputs/
-*.csv
-*.json
+
+
 *.npz
 *.pkl
 
